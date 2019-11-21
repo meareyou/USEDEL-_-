@@ -1,1 +1,1 @@
-sh delfer.sh
+sh delre.sh
