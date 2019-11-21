@@ -1,0 +1,2 @@
+# USEDEL-_-
+NGGAK GUNA
